@@ -61,7 +61,7 @@ The dashboard evaluates projected cash flow from October through December 2026.
 | Minimum Cash Required | $425,000 |
 | Liquidity Buffer | $1.65M |
 
-<img width="1147" height="630" alt="image" src="https://github.com/user-attachments/assets/05b68230-bf9e-4e21-bd68-82037277f5f2" />
+<img width="578" height="322" alt="image" src="https://github.com/user-attachments/assets/f2ea1e64-8ef9-4129-87e6-d2a7bacdb7c4" />
 
 
 ## Key Findings
